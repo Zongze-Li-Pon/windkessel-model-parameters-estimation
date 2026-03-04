@@ -26,5 +26,4 @@ The script prints the estimated parameters and generates the pressure waveform p
 
 The full methodology and background of this work are described in the paper:
 
-A fast approach to estimating Windkessel model parameters for patient-specific multi-scale CFD simulations of aortic flow  
-https://www.sciencedirect.com/science/article/abs/pii/S0045793023001196
+[A fast approach to estimating Windkessel model parameters for patient-specific multi-scale CFD simulations of aortic flow](https://www.sciencedirect.com/science/article/abs/pii/S0045793023001196)
